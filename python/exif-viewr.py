@@ -1,3 +1,5 @@
+# example: $ python exif-viewer.py ../img/cicada.jpg
+
 import sys
 from PIL import Image, ExifTags
 
